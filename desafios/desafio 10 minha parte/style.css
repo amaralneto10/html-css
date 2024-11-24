@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: face;
+    src: url('idroid.otf');
+}
+
+
+body {
+    background-color: #84E1AD;
+}
+
+header {
+background-image: linear-gradient(to bottom #38CA79, #1A5C38);
+color: white;
+text-align: center;
+}
+
+header > p{
+    text-decoration: solid;
+}
+
+.nav1 > a:hover{
+    text-decoration: underline;
+
+}
+.nav1 > a{
+    display:flexbox;
+    color: white;
+    text-align: left;
+    text-decoration: none;
+    
+}
+main{
+    background-color: white;
+    width: 800px;
+    height: 100vh;
+    margin: auto;
+    text-align: justify;
+    padding-left: 10px;
+    
+}
+
+main > p{
+    
+}
