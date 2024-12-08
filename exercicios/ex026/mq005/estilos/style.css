@@ -35,7 +35,7 @@ i#icone:hover {
 }
 
 menu {
-    display: none;
+    display: none   ;
 }
 
 menu > ul {
